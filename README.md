@@ -1,0 +1,2 @@
+# AutoRiceCooker
+Smart power relay
